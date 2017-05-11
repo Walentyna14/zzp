@@ -1,0 +1,8 @@
+ <form>
+        Kolumn: <input type="text" name="k">
+        Wierszy: <input type="text" name="w">
+    </form>
+    
+    <table id="tab">
+    
+    </table>
